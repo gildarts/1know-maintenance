@@ -51,7 +51,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, "1Know \u505C\u6A5F\u7DAD\u8B77\u4E2D!");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "h2", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, "2020/7/11 \u5C07\u91CD\u65B0\u555F\u7528\uFF0C\u4E0D\u4FBF\u4E4B\u8655\uFF0C\u656C\u8ACB\u898B\u8AD2\u3002");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, "2020/7/21 PM 19:00 \u5C07\u91CD\u65B0\u555F\u7528\uFF0C\u4E0D\u4FBF\u4E4B\u8655\uFF0C\u656C\u8ACB\u898B\u8AD2\u3002");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
